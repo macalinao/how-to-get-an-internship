@@ -20,7 +20,7 @@ Make sure you have the skills you need for the job.
 
 For Dallas-area companies, usually it means you have written code before. Learn the skills that are required of the position you're applying for.
 
-For SF Bay Area companies, it's a little tougher, especially for the more popular companies like Google and Facebook. You'll have to study algorithms, as they often ask coding questions at interviews. Read [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) and practice the questions. Also, make sure you know the skills you've listed on your resume in detail. If you can't talk about the skill for 5 minutes, you probably shouldn't have it on your resume.
+For SF Bay Area companies, it's a little tougher, especially for the more popular companies like Google and Facebook. You'll have to study algorithms, as they often ask coding questions at interviews. Read [Cracking the Coding Interview][ctci] and practice the questions. Also, make sure you know the skills you've listed on your resume in detail. If you can't talk about the skill for 5 minutes, you probably shouldn't have it on your resume.
 
 Read [Getting a Gig][getting-a-gig] for more details.
 
@@ -96,6 +96,12 @@ I recommend not sending emails to more than 2 people if it's a startup, as they'
 
 If all else fails, apply online. Make sure you write a good cover letter specific to the company you're applying for.
 
+## Interviewing
+
+There's a lot of guides on this out there, but I believe [Cracking the Coding Interview][ctci] is a really good resource for this.
+
+Make sure you can back up what you put on your resume.
+
 ## Other reading
 
 There's a lot of material on the internet that's related to getting jobs. The following are some of my favorite:
@@ -113,3 +119,4 @@ There's a lot of ways to increase your chances of getting an internship. Don't j
 
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [getting-a-gig]: https://github.com/cassidoo/getting-a-gig
+[ctci]: http://www.amazon.com/gp/product/098478280X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=098478280X&linkCode=as2&tag=simian0d-20&linkId=SOAPLLSQNTVJPOOA
