@@ -14,9 +14,7 @@ Hackathons are better than career fairs, however, because it shows that you have
 
 Make a list of apps and other kinds of services that you use normally, and get the companies associated with them. E.g. if you're a League of Legends fan, apply to Riot Games. It really helps to know the product beforehand, as during your interview you can even show what you'd do to improve it or what you like about it.
 
-## Before applying
-
-### Skills
+## Skills
 
 Make sure you have the skills you need for the job.
 
