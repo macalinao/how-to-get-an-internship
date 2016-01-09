@@ -76,7 +76,11 @@ Conferences are also great to attend, and they often have student discounts. The
 
 ### Cold emails
 
-Emailing employees directly can get you far.
+Emailing employees directly can get you far. You can find emails from places like LinkedIn, or you can use tools such as [SellHack][sellhack] to find emails.
+
+Often it's as simple as first.last@company.com, so you can try that if you can't find an email anywhere.
+
+You can also send someone a LinkedIn request with a short message explaining who you are and why you want to work there, then send them a message afterwards. However, this can be seen as spammy and you should be careful about this method.
 
 #### Large companies
 
@@ -120,3 +124,4 @@ There's a lot of ways to increase your chances of getting an internship. Don't j
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [getting-a-gig]: https://github.com/cassidoo/getting-a-gig
 [ctci]: http://www.amazon.com/gp/product/098478280X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=098478280X&linkCode=as2&tag=simian0d-20&linkId=SOAPLLSQNTVJPOOA
+[sellhack]: http://sellhack.com/
