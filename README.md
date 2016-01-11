@@ -24,14 +24,14 @@ For Dallas-area companies, usually it means you have written code before. Learn 
 
 For SF Bay Area companies, it is tougher, especially for the more popular companies like Google and Facebook. You will have to study algorithms, as they often ask coding questions at interviews. Read [Cracking the Coding Interview][ctci] and practice the questions. Consider contributing to the github solution repo in your language of choice [here](https://github.com/gaylemcd/ctci).
 
-Know the skills listed on your resume in detail. If you can not talk about the skill for 5 minutes, you probably shouldn not have it on your resume.
+Know the skills listed on your resume in detail. If you can not talk about the skill for 5 minutes, you probably should not have it on your resume.
 
 Read [Getting a Gig][getting-a-gig] for more details.
 
 <br>
 ## When to apply
 
-It is ideal to apply in September to October, as that is when most companies start hiring summer interns. That doesn not mean you cant apply in the spring though -- startups especially hire year round.
+It is ideal to apply in September to October, as that is when most companies start hiring summer interns. That does not mean you cant apply in the spring though -- startups especially hire year round.
 
 <br>
 ## Your resume and cover letter
