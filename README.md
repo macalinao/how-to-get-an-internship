@@ -6,7 +6,7 @@ I have had 3 internships -- one at a company doing web development, one at a rea
 
 In this article, I will be talking about how to land these jobs.
 
-<br>
+
 ## Where to apply to
 
 You should visit your school's career fair if you want local internships. This is a great option if you haven not had an internship before.
@@ -15,7 +15,7 @@ Hackathons are better than career fairs, however, because it shows that you have
 
 Make a list of apps and other kinds of services that you use normally, and get the companies associated with them. E.g. if you are a League of Legends fan, apply to Riot Games. It really helps to know the product beforehand, as during your interview you can even show what you would do to improve it or what you like about it.
 
-<br>
+
 ## Skills
 
 Make sure you have the skills you need for the job.
@@ -28,17 +28,17 @@ Know the skills listed on your resume in detail. If you can not talk about the s
 
 Read [Getting a Gig][getting-a-gig] for more details.
 
-<br>
+
 ## When to apply
 
 It is ideal to apply in September to October, as that is when most companies start hiring summer interns. That does not mean you cant apply in the spring though -- startups especially hire year round.
 
-<br>
+
 ## Your resume and cover letter
 
 I would explain this, but Cassidy Williams has already written a pretty good guide on this [here][getting-a-gig].
 
-<br>
+
 ## Getting the interview
 
 Getting the interview is one of the hardest parts, especially if you haven not had an internship before. I have listed some common techniques on accomplishing this.
@@ -107,14 +107,14 @@ I recommend not sending emails to more than 2 people if it is a startup, as they
 
 If all else fails, apply online. Make sure you write a good cover letter specific to the company you are applying for.
 
-<br>
+
 ## Interviewing
 
 There are a lot of guides on this, but I believe [Cracking the Coding Interview][ctci] is the best.
 
 Make sure you can back up what you put on your resume.
 
-<br>
+
 ## Other reading
 
 There are too many to write down, but these are some of my favorites:
@@ -122,12 +122,12 @@ There are too many to write down, but these are some of my favorites:
 * [Getting a Gig][getting-a-gig]
 * [How to Get Your Job Application Noticed Every Time](https://medium.com/life-learning/how-to-get-your-job-application-noticed-every-time-58e3030d42e5)
 
-<br>
+
 ## Conclusion
 
 There are a lot of ways to increase your chances of getting an internship. Do not simply upload your resume to their website. Good luck on your search!
 
-<br>
+
 ## License
 
 [CC-BY-SA][license]
