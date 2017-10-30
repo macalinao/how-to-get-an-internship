@@ -6,8 +6,7 @@ I have had 3 internships -- one at a company doing web development, one at a rea
 
 In this article, I will be talking about how to land these jobs.
 
-<br>
-## Where to apply to
+# Where to apply to
 
 You should visit your school's career fair if you want local internships. This is a great option if you haven not had an internship before.
 
